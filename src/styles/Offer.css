@@ -1,0 +1,37 @@
+.offer-section {
+  background-image: url("../images/offer-background.jpg");
+  background-size: cover;
+  min-height: 700px;
+  display: flex;
+  justify-content: center;
+}
+
+.offer-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.offer {
+  background-color: #5d5e7460;
+  text-align: center;
+  height: 300px;
+  width: 350px;
+  border: 3px solid grey;
+  border-radius: 20px;
+  transition: 0.3s;
+  margin-right: 30px;
+  position: relative;
+}
+.offer p {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.offer:hover {
+  transform: translateY(-5px);
+}

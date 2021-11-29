@@ -1,0 +1,16 @@
+header {
+  margin-top: 40px;
+  position: relative;
+  overflow: hidden;
+  height: 400px;
+  width: 100%;
+  font-size: 35px;
+}
+
+header img {
+  position: relative;
+  top: 0%;
+  left: 0%;
+  min-height: 100%;
+  min-width: 100%;
+}

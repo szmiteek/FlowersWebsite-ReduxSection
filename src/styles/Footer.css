@@ -1,0 +1,60 @@
+footer {
+  background-color: #1a1e2a;
+  text-align: center;
+  margin-top: 30px;
+}
+.contact {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+footer h1 {
+  color: #ffffcb;
+
+  margin-bottom: 20px;
+}
+.contact a {
+  text-decoration: none;
+  color: #f8efda;
+}
+.contact p {
+  color: #f8efda;
+}
+.fb-icon {
+  color: grey;
+}
+.fb-icon:hover {
+  color: #0570e6;
+  background-color: white;
+  border-radius: 10px;
+  transition: 0.7s;
+}
+
+.ig-icon {
+  color: grey;
+}
+.ig-icon:hover {
+  color: white;
+  background: linear-gradient(#dd4c59, #efad55);
+  border-radius: 10px;
+  transition: 0.7s;
+}
+.phone-icon {
+  color: grey;
+}
+.phone-icon:hover {
+  color: #019245;
+  background-color: white;
+  border-radius: 10px;
+  transition: 0.7s;
+}
+.mail-icon {
+  color: grey;
+}
+.mail-icon:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #d74848;
+  border-radius: 10px;
+  transition: 0.7s;
+}

@@ -1,0 +1,29 @@
+.organizer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.organizer h1 {
+  color: white;
+}
+
+.organizer .table {
+  width: 60%;
+}
+.add-button {
+  height: 30px;
+  width: 150px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  border: 2px solid #7a75a5;
+  border-radius: 25px;
+}
+.add-button:hover {
+  background-color: #7a75a5;
+  color: white;
+}
