@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FlowersWebsite-ReduxSection/static/css/main.61690d9b.chunk.css",
+    "main.css": "/FlowersWebsite-ReduxSection/static/css/main.27a09448.chunk.css",
     "main.js": "/FlowersWebsite-ReduxSection/static/js/main.c2e58543.chunk.js",
     "main.js.map": "/FlowersWebsite-ReduxSection/static/js/main.c2e58543.chunk.js.map",
     "runtime-main.js": "/FlowersWebsite-ReduxSection/static/js/runtime-main.267bd801.js",
@@ -8,7 +8,7 @@
     "static/js/2.709a1d57.chunk.js": "/FlowersWebsite-ReduxSection/static/js/2.709a1d57.chunk.js",
     "static/js/2.709a1d57.chunk.js.map": "/FlowersWebsite-ReduxSection/static/js/2.709a1d57.chunk.js.map",
     "index.html": "/FlowersWebsite-ReduxSection/index.html",
-    "static/css/main.61690d9b.chunk.css.map": "/FlowersWebsite-ReduxSection/static/css/main.61690d9b.chunk.css.map",
+    "static/css/main.27a09448.chunk.css.map": "/FlowersWebsite-ReduxSection/static/css/main.27a09448.chunk.css.map",
     "static/js/2.709a1d57.chunk.js.LICENSE.txt": "/FlowersWebsite-ReduxSection/static/js/2.709a1d57.chunk.js.LICENSE.txt",
     "static/media/2.2a4da1b6.png": "/FlowersWebsite-ReduxSection/static/media/2.2a4da1b6.png",
     "static/media/Header.css": "/FlowersWebsite-ReduxSection/static/media/header.e14f4f38.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.267bd801.js",
     "static/js/2.709a1d57.chunk.js",
-    "static/css/main.61690d9b.chunk.css",
+    "static/css/main.27a09448.chunk.css",
     "static/js/main.c2e58543.chunk.js"
   ]
 }
