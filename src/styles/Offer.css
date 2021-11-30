@@ -1,7 +1,7 @@
 .offer-section {
   background-image: url("../images/offer-background.jpg");
   background-size: cover;
-  min-height: 700px;
+  min-height: 800px;
   display: flex;
   justify-content: center;
 }

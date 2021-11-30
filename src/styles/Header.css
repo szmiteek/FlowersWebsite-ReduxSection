@@ -1,16 +1,11 @@
 header {
-  margin-top: 40px;
-  position: relative;
-  overflow: hidden;
-  height: 400px;
-  width: 100%;
-  font-size: 35px;
-}
+  /* margin-top: 10px; */
+  min-height: 600px;
 
-header img {
-  position: relative;
-  top: 0%;
-  left: 0%;
-  min-height: 100%;
-  min-width: 100%;
+  /* width: 100%; */
+  font-size: 35px;
+  background-image: url("../images/header.png");
+  background-size: cover;
+  background-position: center center;
+  /* background-repeat: no-repeat; */
 }

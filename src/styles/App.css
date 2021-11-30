@@ -6,7 +6,7 @@ html {
 div.app {
   display: flex;
   flex-direction: column;
-  background-color: #1a1e2a;
+  background-color: #1f222e;
 }
 main {
   display: flex;
